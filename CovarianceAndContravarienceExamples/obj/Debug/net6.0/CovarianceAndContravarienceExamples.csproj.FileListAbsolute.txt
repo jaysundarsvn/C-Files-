@@ -1,0 +1,14 @@
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.AssemblyInfoInputs.cache
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.AssemblyInfo.cs
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CovarianceAndContravarienceExamples\bin\Debug\net6.0\CovarianceAndContravarienceExamples.exe
+D:\C# Advanced\CovarianceAndContravarienceExamples\bin\Debug\net6.0\CovarianceAndContravarienceExamples.deps.json
+D:\C# Advanced\CovarianceAndContravarienceExamples\bin\Debug\net6.0\CovarianceAndContravarienceExamples.runtimeconfig.json
+D:\C# Advanced\CovarianceAndContravarienceExamples\bin\Debug\net6.0\CovarianceAndContravarienceExamples.dll
+D:\C# Advanced\CovarianceAndContravarienceExamples\bin\Debug\net6.0\CovarianceAndContravarienceExamples.pdb
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.dll
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\refint\CovarianceAndContravarienceExamples.dll
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.pdb
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\CovarianceAndContravarienceExamples.genruntimeconfig.cache
+D:\C# Advanced\CovarianceAndContravarienceExamples\obj\Debug\net6.0\ref\CovarianceAndContravarienceExamples.dll

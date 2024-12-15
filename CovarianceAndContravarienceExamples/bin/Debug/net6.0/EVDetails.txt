@@ -1,0 +1,2 @@
+Object type : CovarianceAndConravarienceExamples.Program+EVCar
+Car Details : 2 - Altroz - Electric motor
