@@ -1,0 +1,14 @@
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.AssemblyInfoInputs.cache
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.AssemblyInfo.cs
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.csproj.CoreCompileInputs.cache
+D:\C# Advanced\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.exe
+D:\C# Advanced\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.deps.json
+D:\C# Advanced\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.runtimeconfig.json
+D:\C# Advanced\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.dll
+D:\C# Advanced\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.pdb
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.dll
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\refint\BuildingSurveillanceSystemApplication.dll
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.pdb
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.genruntimeconfig.cache
+D:\C# Advanced\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\ref\BuildingSurveillanceSystemApplication.dll
