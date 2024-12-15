@@ -1,0 +1,11 @@
+D:\C# Advanced\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.deps.json
+D:\C# Advanced\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.dll
+D:\C# Advanced\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.pdb
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfo.cs
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.dll
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\refint\FieldValidatorAPI.dll
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.pdb
+D:\C# Advanced\FieldValidatorAPI\obj\Debug\net6.0\ref\FieldValidatorAPI.dll

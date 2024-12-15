@@ -1,0 +1,14 @@
+D:\C# Advanced\FuncActionPredicateExamples\bin\Debug\net6.0\FuncActionPredicateExamples.exe
+D:\C# Advanced\FuncActionPredicateExamples\bin\Debug\net6.0\FuncActionPredicateExamples.deps.json
+D:\C# Advanced\FuncActionPredicateExamples\bin\Debug\net6.0\FuncActionPredicateExamples.runtimeconfig.json
+D:\C# Advanced\FuncActionPredicateExamples\bin\Debug\net6.0\FuncActionPredicateExamples.dll
+D:\C# Advanced\FuncActionPredicateExamples\bin\Debug\net6.0\FuncActionPredicateExamples.pdb
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.AssemblyInfoInputs.cache
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.AssemblyInfo.cs
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.dll
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\refint\FuncActionPredicateExamples.dll
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.pdb
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\FuncActionPredicateExamples.genruntimeconfig.cache
+D:\C# Advanced\FuncActionPredicateExamples\obj\Debug\net6.0\ref\FuncActionPredicateExamples.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HardwareWarehouseMangmentSystem/1.0.0": {
+        "dependencies": {
+          "WarehouseManagementSystemAPI": "1.0.0"
+        },
+        "runtime": {
+          "HardwareWarehouseMangmentSystem.dll": {}
+        }
+      },
+      "WarehouseManagementSystemAPI/1.0.0": {
+        "runtime": {
+          "WarehouseManagementSystemAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareWarehouseMangmentSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WarehouseManagementSystemAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

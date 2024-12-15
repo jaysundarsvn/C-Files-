@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaF2oj/lMSkIsJmJgAKq4Rx+84wHzKQJ5pX4JJF8hPAmfOhXAWqymMYCRL9FiB2cmKflFri5PCBNqsqN62QE2A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Advanced\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

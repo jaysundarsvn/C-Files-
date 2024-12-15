@@ -1,0 +1,14 @@
+D:\C# Advanced\GenericBubbleSortApplication\bin\Debug\net6.0\GenericBubbleSortApplication.exe
+D:\C# Advanced\GenericBubbleSortApplication\bin\Debug\net6.0\GenericBubbleSortApplication.deps.json
+D:\C# Advanced\GenericBubbleSortApplication\bin\Debug\net6.0\GenericBubbleSortApplication.runtimeconfig.json
+D:\C# Advanced\GenericBubbleSortApplication\bin\Debug\net6.0\GenericBubbleSortApplication.dll
+D:\C# Advanced\GenericBubbleSortApplication\bin\Debug\net6.0\GenericBubbleSortApplication.pdb
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.AssemblyInfoInputs.cache
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.AssemblyInfo.cs
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.csproj.CoreCompileInputs.cache
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.dll
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\refint\GenericBubbleSortApplication.dll
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.pdb
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\GenericBubbleSortApplication.genruntimeconfig.cache
+D:\C# Advanced\GenericBubbleSortApplication\obj\Debug\net6.0\ref\GenericBubbleSortApplication.dll
