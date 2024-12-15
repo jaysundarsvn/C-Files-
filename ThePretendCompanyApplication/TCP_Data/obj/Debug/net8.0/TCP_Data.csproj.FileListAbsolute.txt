@@ -1,0 +1,11 @@
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\bin\Debug\net8.0\TCP_Data.deps.json
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\bin\Debug\net8.0\TCP_Data.dll
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\bin\Debug\net8.0\TCP_Data.pdb
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.AssemblyInfoInputs.cache
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.AssemblyInfo.cs
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.dll
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\refint\TCP_Data.dll
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\TCP_Data.pdb
+D:\C# Advanced\ThePretendCompanyApplication\TCP_Data\obj\Debug\net8.0\ref\TCP_Data.dll
