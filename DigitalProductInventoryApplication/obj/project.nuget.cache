@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LF10WL+7bnAAzRzXCyzkzRZTkEiyZgxcuDYvHpVPKCK4nSvicFrOpMt9qRlGass0c5obSxkTWTiMLWqke+d3cg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Advanced\\DigitalProductInventoryApplication\\DigitalProductInventoryApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\JAY SISHTLA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

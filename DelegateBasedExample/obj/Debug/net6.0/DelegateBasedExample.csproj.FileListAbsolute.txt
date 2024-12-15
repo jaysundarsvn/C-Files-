@@ -1,0 +1,14 @@
+D:\C# Advanced\DelegateBasedExample\bin\Debug\net6.0\DelegateBasedExample.exe
+D:\C# Advanced\DelegateBasedExample\bin\Debug\net6.0\DelegateBasedExample.deps.json
+D:\C# Advanced\DelegateBasedExample\bin\Debug\net6.0\DelegateBasedExample.runtimeconfig.json
+D:\C# Advanced\DelegateBasedExample\bin\Debug\net6.0\DelegateBasedExample.dll
+D:\C# Advanced\DelegateBasedExample\bin\Debug\net6.0\DelegateBasedExample.pdb
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.AssemblyInfoInputs.cache
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.AssemblyInfo.cs
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.csproj.CoreCompileInputs.cache
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.dll
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\refint\DelegateBasedExample.dll
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.pdb
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\DelegateBasedExample.genruntimeconfig.cache
+D:\C# Advanced\DelegateBasedExample\obj\Debug\net6.0\ref\DelegateBasedExample.dll
