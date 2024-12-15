@@ -1,0 +1,11 @@
+D:\C# Advanced\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.deps.json
+D:\C# Advanced\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.dll
+D:\C# Advanced\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.pdb
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfoInputs.cache
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfo.cs
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.dll
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\refint\HRAdministrationAPI.dll
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.pdb
+D:\C# Advanced\HRAdministrationAPI\obj\Debug\net6.0\ref\HRAdministrationAPI.dll

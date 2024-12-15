@@ -1,0 +1,14 @@
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\bin\Debug\net8.0\LINQ_Examples_1.exe
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\bin\Debug\net8.0\LINQ_Examples_1.deps.json
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\bin\Debug\net8.0\LINQ_Examples_1.runtimeconfig.json
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\bin\Debug\net8.0\LINQ_Examples_1.dll
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\bin\Debug\net8.0\LINQ_Examples_1.pdb
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.AssemblyInfoInputs.cache
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.AssemblyInfo.cs
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.csproj.CoreCompileInputs.cache
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.dll
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\refint\LINQ_Examples_1.dll
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.pdb
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\LINQ_Examples_1.genruntimeconfig.cache
+D:\C# Advanced\LINQ_Examples_1\LINQ_Examples_1\obj\Debug\net8.0\ref\LINQ_Examples_1.dll
